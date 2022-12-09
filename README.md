@@ -3,16 +3,7 @@
 <h3 align="center">I studied in Cairo University in Computer Science Department I live in Giza I'm senior web Development</h3>
 <p align="center" color=""white ><a href="https://profile-summary-for-github.com/user/AhmedSayed117" target="blank">My Githup Activity</a></p>
 
-
-- 🔭 I’m currently working on **E-commerce project**
-
-- 🌱 I’m currently learning **laravel - React**
-
-- 💬 Ask me about **full stack Tracks**
-
 - 📫 How to reach me **midosayed1762001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16wd0ZK5X4-cHtMX52GNVTsFhc7Tg2sgs/view?usp=sharing](https://drive.google.com/file/d/16wd0ZK5X4-cHtMX52GNVTsFhc7Tg2sgs/view?usp=sharing)
 
 <h1 align="center"></h1>
 <h3 align="center">Connect with me:</h3>
