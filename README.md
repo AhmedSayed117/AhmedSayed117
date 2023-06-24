@@ -21,22 +21,34 @@
 <h1 align="center"></h1>
 <h3 align="center">Languages and Tools:</h3>
 <p>
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-CB3837?style=flat-square&logo=Laravel&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-14aa52?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-CB3837?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="Springboot" src="https://img.shields.io/badge/-Springboot-BB3837?style=flat-square&logo=Springboot&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-CB2817?style=flat-square&logo=Django&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b6d8?style=flat-square&logo=Vue&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+
+
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-14aa52?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-13aa52?style=flat-square&logo=Postgres&logoColor=white" />
+
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+  <img alt="C++" src="https://img.shields.io/badge/-C++-007ABA?style=flat-square&logo=C++&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=JavaScript&logoColor=white" />
+
+  <img alt="Java" src="https://img.shields.io/badge/-Java-00B8CC?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" />
+
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedSayed117&theme=monokai)     ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedSayed117&theme=monokai&utcOffset=8)
 
