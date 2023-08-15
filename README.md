@@ -1,6 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedSayed117&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="AhmedSayed117" /> </p>
 <h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
-<h3 align="center">I studied at Cairo University in Computer Science Department and I'm a senior in Software Development</h3>
+<h3 align="center">Senior computer science student graduated from Faculty of computer science and Artificial intelligence Cairo University with 
+a focus on backend development and software engineering. I have also participated in competitive programming through the 
+International Collegiate Programming Contest (ICPC).</h3>
 <p align="center" color=""white ><a href="https://profile-summary-for-github.com/user/AhmedSayed117" target="blank">My Githup Activity</a></p>
 
 - 📫 How to reach me **midosayed1762001@gmail.com**
